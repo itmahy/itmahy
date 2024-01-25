@@ -1,6 +1,6 @@
 <div>
     <p style="font-size:28px;color:#25C2A0">温水煮蛙的小作坊</p>
-    <img alt="https://mahy.store" src="https://img.shields.io/badge/%E6%B8%A9%E6%B0%B4%E7%85%AE%E8%9B%99-FC5531">
+    <img alt="https://mahy.store" src="https://img.shields.io/badge/%E6%B8%A9%E6%B0%B4%E7%85%AE%E8%9B%99-FC5531">&emsp;
     <a href="https://mahy.store/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;<a href="https://mahy.store"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;<a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
 </div>
 
